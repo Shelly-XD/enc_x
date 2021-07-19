@@ -2,7 +2,7 @@
 
 ``` 
 $ pkg install python2 git
-$ git clone https://github.com/anggaxd/enc_py
+$ git clone https://
 $ cd enc_py
 $ python2 enc.py
 ```
