@@ -4,17 +4,18 @@
 import os,sys,time
 from platform import system
 
-logo = """     \033[0;91m██████  ██    ██ ███████ ███    ██  ██████ 
-     \033[0;91m██   ██  ██  ██  ██      ████   ██ ██      
-     \033[0;91m██████    ████   █████   ██ ██  ██ ██      
-     \033[0;97m██         ██    ██      ██  ██ ██ ██      
-     \033[0;97m██         ██    ███████ ██   ████  ██████ 
+logo = """
+ ____  _   _ _____ _     _  __   __
+/ ___|| | | | ____| |   | | \ \ / /
+\___ \| |_| |  _| | |   | |  \ V /
+ ___) |  _  | |___| |___| |___| |
+|____/|_| |_|_____|_____|_____|_|
  ---------------------------------------------------
- ➣ Author    : Angga Kurniawan
- ➣ GitHub    : https://github.com/anggaxd
+ ➣ Author    : Shelly X Noah
+ ➣ GitHub    : https://github.com/Shelly-XD
  ---------------------------------------------------
- ➣ Instagram : @gaaarzxd
- ➣ Facebook  : https://fb.me/gaaaarzxd\n"""
+ ➣ Instagram : 
+ ➣ Facebook  : https://fb.me\n"""
 
 def menu():
 	os.system("clear")
